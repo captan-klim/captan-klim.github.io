@@ -2,3 +2,27 @@
   display: flex;
   flex-direction: row;
 }
+
+.header-info-left {
+  display: inline-block;
+  width: 130px;
+}
+
+html {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  width: 1200px;
+  margin: 20px;
+}
+
+.section-header {
+  font-weight: bold;
+}
+
+.photo {
+  height: 200px;
+  margin-right: 10px;
+}
